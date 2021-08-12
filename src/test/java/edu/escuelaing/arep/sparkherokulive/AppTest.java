@@ -1,4 +1,4 @@
-package edu.escuelaing.arep;
+package edu.escuelaing.arep.sparkherokulive;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
